@@ -1,0 +1,26 @@
+.fixed-navbar {
+    position: relative;
+    z-index: 5555;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    list-style: none;
+    position: absolute;
+}
+
+.menu, .reseau {
+    display: flex;
+}
+
+.menu li {
+    margin: 10px;
+}
+
+.reseau li {
+    margin: 10px;
+}
+
