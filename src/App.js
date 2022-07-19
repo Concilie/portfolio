@@ -6,7 +6,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div className="App bg-white dark:bg-slate-900">
+    <div className="App bg-slate-900">
       <Navbar />
       <Home />
       <Footer />
