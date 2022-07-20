@@ -10,7 +10,7 @@ const Navbar = () => {
     <div className="text-gray-400 dark:text-white body-font">
     <div className="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
         <span className="rounded-full bg-rose-500 w-16 h-16 flex items-center">
-            <span className="m-auto text-xl font-semibold">WD</span>
+            <span className="m-auto text-xl font-semibold text-white">WD</span>
         </span>
        
         <ul className="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center font-bold text-gray-600 text-white">
